@@ -2,6 +2,8 @@
 
 /**
  * convert - converts number and base into string
+ * 
+ * Alx prokect Task 1 " Education is when you read the fine print. Experience is what you get if you don't"
  *
  * @num: input number
  *
