@@ -2,6 +2,9 @@
 
 /**
  * _printf - produces output according to a format
+ * 
+ * alx project printf task 0 " I'm not going anywhere.
+ * You can print that wherever you want to. I'm here and I'm a Spur for life"
  *
  * @format: format string containing the characters and the specifiers
  *
@@ -27,6 +30,7 @@ int _printf(const char *format, ...)
 		return (-1);
 	if (format[0] == '%' && format[1] == ' ' && !format[2])
 		return (-1);
+
 	for (p = format; *p; p++)
 	{
 		if (*p == '%')
