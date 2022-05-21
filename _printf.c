@@ -3,8 +3,7 @@
 /**
  * _printf - produces output according to a format
  * 
- * alx project printf task 0 " I'm not going anywhere.
- * You can print that wherever you want to. I'm here and I'm a Spur for life"
+ * alx project
  *
  * @format: format string containing the characters and the specifiers
  *
