@@ -42,7 +42,9 @@ int print_bigS(va_list l, flags_t *f)
 }
 
 /**
- * print_rev - prints a string in reverse
+ * print_rev - this codes prints a string in reverse saction for the printf
+ * alx rask projet
+ * 
  * @l: argument from _printf
  *
  * @f: pointer to the struct flags that determines
